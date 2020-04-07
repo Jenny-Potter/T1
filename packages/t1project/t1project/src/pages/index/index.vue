@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>you see ?</div>
+    <div>you see ?Iam a main page and main project include using components in other file</div>
   </div>
 </template>
 
